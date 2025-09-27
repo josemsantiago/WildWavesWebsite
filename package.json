@@ -1,0 +1,21 @@
+{
+  "name": "wild-waves-website",
+  "version": "1.0.0",
+  "description": "Wild Waves website built with HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "website",
+    "wildwaves",
+    "html",
+    "css"
+  ],
+  "author": "Jose Santiago Echevarria",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
